@@ -37,3 +37,9 @@ ul.form-group li {
     display: inline-block;
     padding-right: 15px;
 }
+.errors{
+    color: red;
+}
+.margin{
+    margin-right:15px;
+}
